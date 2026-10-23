@@ -21,7 +21,7 @@ export const regionalDesks: RegionalDesk[] = [
     slug: "europe",
     name: "Europe",
     editor: "Margaret Barg",
-    writers: ["Sabrine Lane", "Savannah Smalley", "Kevin Cruz-Cristanto"],
+    writers: ["Sabrina Lane", "Savannah Smalley", "Kevin Cruz-Cristanto"],
     description: "European politics, institutions, security, and the continent's international relationships.",
   },
   {
